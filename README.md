@@ -2,7 +2,7 @@ Hi there 👋
 
 I love to build things, mainly software & games though. I used to write tons of Android apps.
 
-- 🔭 I’m currently working on ... TalesMUD when i got some time in the evening or weekends. Also a pirate themed 2D pixelart game in unity, not public though.
+- 🔭 I’m currently working on ... TalesMUD when i got some time in the evening or weekends. Also a pirate themed 2D pixelart game in Unity3D with C#, not public though.
 - 🌱 I’m currently learning ... way too much, some things being Golang, Svelte.JS and Kotlin/Jetpack Compose.
 - ⚡ I would love to learn more about Rust, but there is simply not enough time
 - 📫 How to reach me: Add me here or on twitter @atla_ (http://twitter.com/atla_ )
