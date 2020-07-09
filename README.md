@@ -5,7 +5,7 @@ I love to build things, mainly software though.
 - 🔭 I’m currently working on ... TalesMUD when i got some time in the evening or weekends. Also a pirate themed 2D pixelart game in unity, not public though.
 - 🌱 I’m currently learning ... way too much, some things being Golang, Svelte.JS and Kotlin/Jetpack Compose.
 - ⚡ I would love to learn more about Rust, but there is simply not enough time
-- 📫 How to reach me: Add me here or on twitter @atla_ (http://twitter.com/atla_)
+- 📫 How to reach me: Add me here or on twitter @atla_ (http://twitter.com/atla_ )
 
 <!--
 **atla/atla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
